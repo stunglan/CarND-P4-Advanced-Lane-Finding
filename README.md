@@ -81,7 +81,7 @@ I very much used the code from the lectures, and therefore was not completely st
 
 I am not completely understand all the implications of the Sobel operator, even if I have used it in this project. 
 
-When using my pipeline on the challenge video [link](output_images/challenge_video_projected.mp4), the pipeline fails. I would need to analyse better, but I expect that is has to do with the light conditions, that the pipeline identify a change in the lighting as a lane separator. I did not use hough lines, nor any colour functions to identify “white” or “yellow”, this could made a difference in the challenge video.
+When using my pipeline on the challenge [video](output_images/challenge_video_projected.mp4), the pipeline fails. I would need to analyse better, but I expect that is has to do with the light conditions, that the pipeline identify a change in the lighting as a lane separator. I did not use hough lines, nor any colour functions to identify “white” or “yellow”, this could made a difference in the challenge video.
 
 The project was very enjoyable, I have not worked much with video images before, and I learned a lot.
 
